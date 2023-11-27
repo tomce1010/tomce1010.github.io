@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on lab3</title>
+    
+    
+    
+    <link>https://tomce1010/hugo.github.io/posts/</link>
+    <description>Recent content in Posts on lab3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2023 02:37:45 +0200</lastBuildDate>
+    
+	<atom:link href="https://tomce1010/hugo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testtitle</title>
+      <link>https://tomce1010/hugo.github.io/posts/hugo.github.io/</link>
+      <pubDate>Mon, 27 Nov 2023 02:37:45 +0200</pubDate>
+      
+      <guid>https://tomce1010/hugo.github.io/posts/hugo.github.io/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          hahahaha
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
